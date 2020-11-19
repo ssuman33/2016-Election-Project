@@ -1,0 +1,956 @@
+{
+  "appling": {
+    "Reported Cases": 1211,
+    "Reported Deaths": 39,
+    "Case Rate": 6524.43,
+    "Hospitalizations": 106
+  },
+  "atkinson": {
+    "Reported Cases": 503,
+    "Reported Deaths": 8,
+    "Case Rate": 6038.42,
+    "Hospitalizations": 70
+  },
+  "bacon": {
+    "Reported Cases": 658,
+    "Reported Deaths": 18,
+    "Case Rate": 5769.91,
+    "Hospitalizations": 52
+  },
+  "baker": {
+    "Reported Cases": 102,
+    "Reported Deaths": 6,
+    "Case Rate": 3273.43,
+    "Hospitalizations": 21
+  },
+  "baldwin": {
+    "Reported Cases": 2439,
+    "Reported Deaths": 68,
+    "Case Rate": 5489.78,
+    "Hospitalizations": 177
+  },
+  "banks": {
+    "Reported Cases": 657,
+    "Reported Deaths": 9,
+    "Case Rate": 3287.96,
+    "Hospitalizations": 81
+  },
+  "barrow": {
+    "Reported Cases": 2891,
+    "Reported Deaths": 56,
+    "Case Rate": 3346.72,
+    "Hospitalizations": 289
+  },
+  "bartow": {
+    "Reported Cases": 4114,
+    "Reported Deaths": 98,
+    "Case Rate": 3713.97,
+    "Hospitalizations": 351
+  },
+  "ben hill": {
+    "Reported Cases": 912,
+    "Reported Deaths": 35,
+    "Case Rate": 5479.12,
+    "Hospitalizations": 95
+  },
+  "berrien": {
+    "Reported Cases": 520,
+    "Reported Deaths": 17,
+    "Case Rate": 2697.66,
+    "Hospitalizations": 28
+  },
+  "bibb": {
+    "Reported Cases": 7032,
+    "Reported Deaths": 214,
+    "Case Rate": 4621.75,
+    "Hospitalizations": 930
+  },
+  "bleckley": {
+    "Reported Cases": 535,
+    "Reported Deaths": 29,
+    "Case Rate": 4167.32,
+    "Hospitalizations": 37
+  },
+  "brantley": {
+    "Reported Cases": 505,
+    "Reported Deaths": 14,
+    "Case Rate": 2629.93,
+    "Hospitalizations": 43
+  },
+  "brooks": {
+    "Reported Cases": 559,
+    "Reported Deaths": 26,
+    "Case Rate": 3554.4,
+    "Hospitalizations": 55
+  },
+  "bryan": {
+    "Reported Cases": 1362,
+    "Reported Deaths": 16,
+    "Case Rate": 3480.08,
+    "Hospitalizations": 100
+  },
+  "bulloch": {
+    "Reported Cases": 3222,
+    "Reported Deaths": 34,
+    "Case Rate": 4054.51,
+    "Hospitalizations": 148
+  },
+  "burke": {
+    "Reported Cases": 958,
+    "Reported Deaths": 12,
+    "Case Rate": 4287.89,
+    "Hospitalizations": 92
+  },
+  "butts": {
+    "Reported Cases": 831,
+    "Reported Deaths": 45,
+    "Case Rate": 3301.02,
+    "Hospitalizations": 60
+  },
+  "calhoun": {
+    "Reported Cases": 270,
+    "Reported Deaths": 10,
+    "Case Rate": 4274.18,
+    "Hospitalizations": 51
+  },
+  "camden": {
+    "Reported Cases": 1585,
+    "Reported Deaths": 18,
+    "Case Rate": 2939.32,
+    "Hospitalizations": 79
+  },
+  "candler": {
+    "Reported Cases": 568,
+    "Reported Deaths": 26,
+    "Case Rate": 5241.3,
+    "Hospitalizations": 46
+  },
+  "carroll": {
+    "Reported Cases": 3773,
+    "Reported Deaths": 81,
+    "Case Rate": 3141.05,
+    "Hospitalizations": 213
+  },
+  "catoosa": {
+    "Reported Cases": 1780,
+    "Reported Deaths": 26,
+    "Case Rate": 2588.3,
+    "Hospitalizations": 91
+  },
+  "charlton": {
+    "Reported Cases": 671,
+    "Reported Deaths": 11,
+    "Case Rate": 5063.77,
+    "Hospitalizations": 32
+  },
+  "chatham": {
+    "Reported Cases": 10070,
+    "Reported Deaths": 199,
+    "Case Rate": 3446.55,
+    "Hospitalizations": 876
+  },
+  "chattahoochee": {
+    "Reported Cases": 1906,
+    "Reported Deaths": 1,
+    "Case Rate": 17731.88,
+    "Hospitalizations": 15
+  },
+  "chattooga": {
+    "Reported Cases": 1075,
+    "Reported Deaths": 30,
+    "Case Rate": 4340.63,
+    "Hospitalizations": 74
+  },
+  "cherokee": {
+    "Reported Cases": 8300,
+    "Reported Deaths": 109,
+    "Case Rate": 3113.08,
+    "Hospitalizations": 572
+  },
+  "clarke": {
+    "Reported Cases": 6304,
+    "Reported Deaths": 50,
+    "Case Rate": 4857.49,
+    "Hospitalizations": 266
+  },
+  "clay": {
+    "Reported Cases": 125,
+    "Reported Deaths": 3,
+    "Case Rate": 4378.28,
+    "Hospitalizations": 9
+  },
+  "clayton": {
+    "Reported Cases": 9166,
+    "Reported Deaths": 188,
+    "Case Rate": 3006.84,
+    "Hospitalizations": 746
+  },
+  "clinch": {
+    "Reported Cases": 482,
+    "Reported Deaths": 13,
+    "Case Rate": 7241.59,
+    "Hospitalizations": 35
+  },
+  "cobb": {
+    "Reported Cases": 24333,
+    "Reported Deaths": 484,
+    "Case Rate": 3077.84,
+    "Hospitalizations": 2087
+  },
+  "coffee": {
+    "Reported Cases": 2462,
+    "Reported Deaths": 68,
+    "Case Rate": 5719.99,
+    "Hospitalizations": 360
+  },
+  "colquitt": {
+    "Reported Cases": 2203,
+    "Reported Deaths": 41,
+    "Case Rate": 4853.17,
+    "Hospitalizations": 175
+  },
+  "columbia": {
+    "Reported Cases": 4989,
+    "Reported Deaths": 69,
+    "Case Rate": 3145.03,
+    "Hospitalizations": 217
+  },
+  "cook": {
+    "Reported Cases": 690,
+    "Reported Deaths": 16,
+    "Case Rate": 3957.1,
+    "Hospitalizations": 67
+  },
+  "coweta": {
+    "Reported Cases": 3262,
+    "Reported Deaths": 64,
+    "Case Rate": 2146.04,
+    "Hospitalizations": 159
+  },
+  "crawford": {
+    "Reported Cases": 211,
+    "Reported Deaths": 6,
+    "Case Rate": 1725.55,
+    "Hospitalizations": 28
+  },
+  "crisp": {
+    "Reported Cases": 699,
+    "Reported Deaths": 26,
+    "Case Rate": 3136.08,
+    "Hospitalizations": 90
+  },
+  "dade": {
+    "Reported Cases": 442,
+    "Reported Deaths": 6,
+    "Case Rate": 2734.81,
+    "Hospitalizations": 24
+  },
+  "dawson": {
+    "Reported Cases": 995,
+    "Reported Deaths": 11,
+    "Case Rate": 3682.32,
+    "Hospitalizations": 94
+  },
+  "dekalb": {
+    "Reported Cases": 23947,
+    "Reported Deaths": 425,
+    "Case Rate": 3019.21,
+    "Hospitalizations": 2495
+  },
+  "decatur": {
+    "Reported Cases": 1378,
+    "Reported Deaths": 40,
+    "Case Rate": 5235.16,
+    "Hospitalizations": 105
+  },
+  "dodge": {
+    "Reported Cases": 696,
+    "Reported Deaths": 29,
+    "Case Rate": 3414.28,
+    "Hospitalizations": 58
+  },
+  "dooly": {
+    "Reported Cases": 396,
+    "Reported Deaths": 18,
+    "Case Rate": 2955.22,
+    "Hospitalizations": 59
+  },
+  "dougherty": {
+    "Reported Cases": 3374,
+    "Reported Deaths": 197,
+    "Case Rate": 3752.85,
+    "Hospitalizations": 685
+  },
+  "douglas": {
+    "Reported Cases": 4555,
+    "Reported Deaths": 79,
+    "Case Rate": 2998.56,
+    "Hospitalizations": 494
+  },
+  "early": {
+    "Reported Cases": 590,
+    "Reported Deaths": 36,
+    "Case Rate": 5815.1,
+    "Hospitalizations": 44
+  },
+  "echols": {
+    "Reported Cases": 251,
+    "Reported Deaths": 2,
+    "Case Rate": 6324.01,
+    "Hospitalizations": 10
+  },
+  "effingham": {
+    "Reported Cases": 1982,
+    "Reported Deaths": 29,
+    "Case Rate": 3095.62,
+    "Hospitalizations": 125
+  },
+  "elbert": {
+    "Reported Cases": 852,
+    "Reported Deaths": 14,
+    "Case Rate": 4497.23,
+    "Hospitalizations": 70
+  },
+  "emanuel": {
+    "Reported Cases": 1263,
+    "Reported Deaths": 43,
+    "Case Rate": 5572.71,
+    "Hospitalizations": 91
+  },
+  "evans": {
+    "Reported Cases": 503,
+    "Reported Deaths": 7,
+    "Case Rate": 4706.65,
+    "Hospitalizations": 47
+  },
+  "fannin": {
+    "Reported Cases": 917,
+    "Reported Deaths": 30,
+    "Case Rate": 3484.04,
+    "Hospitalizations": 81
+  },
+  "fayette": {
+    "Reported Cases": 2403,
+    "Reported Deaths": 61,
+    "Case Rate": 2044.34,
+    "Hospitalizations": 144
+  },
+  "floyd": {
+    "Reported Cases": 4658,
+    "Reported Deaths": 67,
+    "Case Rate": 4661.92,
+    "Hospitalizations": 360
+  },
+  "forsyth": {
+    "Reported Cases": 5477,
+    "Reported Deaths": 57,
+    "Case Rate": 2169.05,
+    "Hospitalizations": 401
+  },
+  "franklin": {
+    "Reported Cases": 1071,
+    "Reported Deaths": 19,
+    "Case Rate": 4590.85,
+    "Hospitalizations": 75
+  },
+  "fulton": {
+    "Reported Cases": 34631,
+    "Reported Deaths": 652,
+    "Case Rate": 3150.62,
+    "Hospitalizations": 2782
+  },
+  "gilmer": {
+    "Reported Cases": 1141,
+    "Reported Deaths": 28,
+    "Case Rate": 3631.79,
+    "Hospitalizations": 101
+  },
+  "glascock": {
+    "Reported Cases": 59,
+    "Reported Deaths": 2,
+    "Case Rate": 1950.41,
+    "Hospitalizations": 5
+  },
+  "glynn": {
+    "Reported Cases": 3987,
+    "Reported Deaths": 108,
+    "Case Rate": 4633.51,
+    "Hospitalizations": 333
+  },
+  "gordon": {
+    "Reported Cases": 2825,
+    "Reported Deaths": 54,
+    "Case Rate": 4866.58,
+    "Hospitalizations": 156
+  },
+  "grady": {
+    "Reported Cases": 901,
+    "Reported Deaths": 26,
+    "Case Rate": 3671.56,
+    "Hospitalizations": 103
+  },
+  "greene": {
+    "Reported Cases": 614,
+    "Reported Deaths": 26,
+    "Case Rate": 3280.44,
+    "Hospitalizations": 62
+  },
+  "gwinnett": {
+    "Reported Cases": 33937,
+    "Reported Deaths": 475,
+    "Case Rate": 3494.53,
+    "Hospitalizations": 3011
+  },
+  "habersham": {
+    "Reported Cases": 2055,
+    "Reported Deaths": 76,
+    "Case Rate": 4486.9,
+    "Hospitalizations": 249
+  },
+  "hall": {
+    "Reported Cases": 11603,
+    "Reported Deaths": 188,
+    "Case Rate": 5623,
+    "Hospitalizations": 1186
+  },
+  "hancock": {
+    "Reported Cases": 435,
+    "Reported Deaths": 45,
+    "Case Rate": 5309.41,
+    "Hospitalizations": 68
+  },
+  "haralson": {
+    "Reported Cases": 796,
+    "Reported Deaths": 17,
+    "Case Rate": 2590.98,
+    "Hospitalizations": 36
+  },
+  "harris": {
+    "Reported Cases": 900,
+    "Reported Deaths": 27,
+    "Case Rate": 2592.76,
+    "Hospitalizations": 95
+  },
+  "hart": {
+    "Reported Cases": 659,
+    "Reported Deaths": 20,
+    "Case Rate": 2524.23,
+    "Hospitalizations": 77
+  },
+  "heard": {
+    "Reported Cases": 267,
+    "Reported Deaths": 7,
+    "Case Rate": 2158.45,
+    "Hospitalizations": 18
+  },
+  "henry": {
+    "Reported Cases": 6988,
+    "Reported Deaths": 125,
+    "Case Rate": 2913.29,
+    "Hospitalizations": 322
+  },
+  "houston": {
+    "Reported Cases": 4030,
+    "Reported Deaths": 100,
+    "Case Rate": 2566.24,
+    "Hospitalizations": 412
+  },
+  "irwin": {
+    "Reported Cases": 383,
+    "Reported Deaths": 11,
+    "Case Rate": 4060.21,
+    "Hospitalizations": 41
+  },
+  "jackson": {
+    "Reported Cases": 2836,
+    "Reported Deaths": 47,
+    "Case Rate": 3796.52,
+    "Hospitalizations": 236
+  },
+  "jasper": {
+    "Reported Cases": 264,
+    "Reported Deaths": 4,
+    "Case Rate": 1859.29,
+    "Hospitalizations": 21
+  },
+  "jeff davis": {
+    "Reported Cases": 825,
+    "Reported Deaths": 27,
+    "Case Rate": 5446.26,
+    "Hospitalizations": 76
+  },
+  "jefferson": {
+    "Reported Cases": 911,
+    "Reported Deaths": 37,
+    "Case Rate": 5949.19,
+    "Hospitalizations": 89
+  },
+  "jenkins": {
+    "Reported Cases": 485,
+    "Reported Deaths": 33,
+    "Case Rate": 5655.32,
+    "Hospitalizations": 69
+  },
+  "johnson": {
+    "Reported Cases": 454,
+    "Reported Deaths": 27,
+    "Case Rate": 4699.31,
+    "Hospitalizations": 67
+  },
+  "jones": {
+    "Reported Cases": 704,
+    "Reported Deaths": 18,
+    "Case Rate": 2462.31,
+    "Hospitalizations": 58
+  },
+  "lamar": {
+    "Reported Cases": 489,
+    "Reported Deaths": 22,
+    "Case Rate": 2527.52,
+    "Hospitalizations": 51
+  },
+  "lanier": {
+    "Reported Cases": 329,
+    "Reported Deaths": 7,
+    "Case Rate": 3178.44,
+    "Hospitalizations": 16
+  },
+  "laurens": {
+    "Reported Cases": 2142,
+    "Reported Deaths": 104,
+    "Case Rate": 4528.92,
+    "Hospitalizations": 186
+  },
+  "lee": {
+    "Reported Cases": 778,
+    "Reported Deaths": 32,
+    "Case Rate": 2595.84,
+    "Hospitalizations": 112
+  },
+  "liberty": {
+    "Reported Cases": 1404,
+    "Reported Deaths": 28,
+    "Case Rate": 2268.03,
+    "Hospitalizations": 123
+  },
+  "lincoln": {
+    "Reported Cases": 265,
+    "Reported Deaths": 8,
+    "Case Rate": 3261.54,
+    "Hospitalizations": 31
+  },
+  "long": {
+    "Reported Cases": 294,
+    "Reported Deaths": 5,
+    "Case Rate": 1476.27,
+    "Hospitalizations": 18
+  },
+  "lowndes": {
+    "Reported Cases": 4842,
+    "Reported Deaths": 93,
+    "Case Rate": 4107.64,
+    "Hospitalizations": 227
+  },
+  "lumpkin": {
+    "Reported Cases": 1163,
+    "Reported Deaths": 19,
+    "Case Rate": 3440.62,
+    "Hospitalizations": 111
+  },
+  "macon": {
+    "Reported Cases": 273,
+    "Reported Deaths": 14,
+    "Case Rate": 2101.94,
+    "Hospitalizations": 54
+  },
+  "madison": {
+    "Reported Cases": 909,
+    "Reported Deaths": 12,
+    "Case Rate": 3012.23,
+    "Hospitalizations": 73
+  },
+  "marion": {
+    "Reported Cases": 214,
+    "Reported Deaths": 10,
+    "Case Rate": 2580.49,
+    "Hospitalizations": 23
+  },
+  "mcduffie": {
+    "Reported Cases": 751,
+    "Reported Deaths": 19,
+    "Case Rate": 3477.33,
+    "Hospitalizations": 81
+  },
+  "mcintosh": {
+    "Reported Cases": 337,
+    "Reported Deaths": 7,
+    "Case Rate": 2313.45,
+    "Hospitalizations": 35
+  },
+  "meriwether": {
+    "Reported Cases": 622,
+    "Reported Deaths": 19,
+    "Case Rate": 2959.09,
+    "Hospitalizations": 84
+  },
+  "miller": {
+    "Reported Cases": 344,
+    "Reported Deaths": 2,
+    "Case Rate": 5968.08,
+    "Hospitalizations": 20
+  },
+  "mitchell": {
+    "Reported Cases": 879,
+    "Reported Deaths": 47,
+    "Case Rate": 3985.31,
+    "Hospitalizations": 156
+  },
+  "monroe": {
+    "Reported Cases": 843,
+    "Reported Deaths": 59,
+    "Case Rate": 3040.36,
+    "Hospitalizations": 93
+  },
+  "montgomery": {
+    "Reported Cases": 381,
+    "Reported Deaths": 9,
+    "Case Rate": 4130.53,
+    "Hospitalizations": 27
+  },
+  "morgan": {
+    "Reported Cases": 561,
+    "Reported Deaths": 6,
+    "Case Rate": 2931.34,
+    "Hospitalizations": 44
+  },
+  "murray": {
+    "Reported Cases": 1406,
+    "Reported Deaths": 17,
+    "Case Rate": 3492.21,
+    "Hospitalizations": 83
+  },
+  "muscogee": {
+    "Reported Cases": 6666,
+    "Reported Deaths": 184,
+    "Case Rate": 3478.65,
+    "Hospitalizations": 715
+  },
+  "newton": {
+    "Reported Cases": 3157,
+    "Reported Deaths": 103,
+    "Case Rate": 2809.87,
+    "Hospitalizations": 333
+  },
+  "oconee": {
+    "Reported Cases": 949,
+    "Reported Deaths": 34,
+    "Case Rate": 2273.76,
+    "Hospitalizations": 78
+  },
+  "oglethorpe": {
+    "Reported Cases": 458,
+    "Reported Deaths": 13,
+    "Case Rate": 3005.25,
+    "Hospitalizations": 49
+  },
+  "paulding": {
+    "Reported Cases": 3605,
+    "Reported Deaths": 71,
+    "Case Rate": 2089.35,
+    "Hospitalizations": 171
+  },
+  "peach": {
+    "Reported Cases": 873,
+    "Reported Deaths": 27,
+    "Case Rate": 3189.04,
+    "Hospitalizations": 110
+  },
+  "pickens": {
+    "Reported Cases": 952,
+    "Reported Deaths": 13,
+    "Case Rate": 2839.25,
+    "Hospitalizations": 74
+  },
+  "pierce": {
+    "Reported Cases": 723,
+    "Reported Deaths": 26,
+    "Case Rate": 3699.16,
+    "Hospitalizations": 87
+  },
+  "pike": {
+    "Reported Cases": 425,
+    "Reported Deaths": 12,
+    "Case Rate": 2253.45,
+    "Hospitalizations": 37
+  },
+  "polk": {
+    "Reported Cases": 1895,
+    "Reported Deaths": 30,
+    "Case Rate": 4358.13,
+    "Hospitalizations": 157
+  },
+  "pulaski": {
+    "Reported Cases": 361,
+    "Reported Deaths": 24,
+    "Case Rate": 3314.05,
+    "Hospitalizations": 40
+  },
+  "putnam": {
+    "Reported Cases": 870,
+    "Reported Deaths": 28,
+    "Case Rate": 3975.33,
+    "Hospitalizations": 76
+  },
+  "quitman": {
+    "Reported Cases": 43,
+    "Reported Deaths": 1,
+    "Case Rate": 1874.46,
+    "Hospitalizations": 7
+  },
+  "rabun": {
+    "Reported Cases": 506,
+    "Reported Deaths": 11,
+    "Case Rate": 2978.92,
+    "Hospitalizations": 58
+  },
+  "randolph": {
+    "Reported Cases": 344,
+    "Reported Deaths": 30,
+    "Case Rate": 5093.28,
+    "Hospitalizations": 60
+  },
+  "richmond": {
+    "Reported Cases": 8866,
+    "Reported Deaths": 192,
+    "Case Rate": 4383.9,
+    "Hospitalizations": 669
+  },
+  "rockdale": {
+    "Reported Cases": 2369,
+    "Reported Deaths": 47,
+    "Case Rate": 2494.73,
+    "Hospitalizations": 327
+  },
+  "schley": {
+    "Reported Cases": 118,
+    "Reported Deaths": 2,
+    "Case Rate": 2236.97,
+    "Hospitalizations": 16
+  },
+  "screven": {
+    "Reported Cases": 463,
+    "Reported Deaths": 11,
+    "Case Rate": 3330.94,
+    "Hospitalizations": 47
+  },
+  "seminole": {
+    "Reported Cases": 449,
+    "Reported Deaths": 12,
+    "Case Rate": 5515.97,
+    "Hospitalizations": 37
+  },
+  "spalding": {
+    "Reported Cases": 1777,
+    "Reported Deaths": 68,
+    "Case Rate": 2571.26,
+    "Hospitalizations": 222
+  },
+  "stephens": {
+    "Reported Cases": 1383,
+    "Reported Deaths": 46,
+    "Case Rate": 5252.96,
+    "Hospitalizations": 141
+  },
+  "stewart": {
+    "Reported Cases": 568,
+    "Reported Deaths": 17,
+    "Case Rate": 9267.42,
+    "Hospitalizations": 81
+  },
+  "sumter": {
+    "Reported Cases": 989,
+    "Reported Deaths": 69,
+    "Case Rate": 3364.06,
+    "Hospitalizations": 208
+  },
+  "talbot": {
+    "Reported Cases": 198,
+    "Reported Deaths": 8,
+    "Case Rate": 3215.33,
+    "Hospitalizations": 28
+  },
+  "taliaferro": {
+    "Reported Cases": 33,
+    "Reported Deaths": 0,
+    "Case Rate": 2022.06,
+    "Hospitalizations": 2
+  },
+  "tattnall": {
+    "Reported Cases": 988,
+    "Reported Deaths": 19,
+    "Case Rate": 3888.08,
+    "Hospitalizations": 71
+  },
+  "taylor": {
+    "Reported Cases": 254,
+    "Reported Deaths": 13,
+    "Case Rate": 3191.76,
+    "Hospitalizations": 35
+  },
+  "telfair": {
+    "Reported Cases": 512,
+    "Reported Deaths": 25,
+    "Case Rate": 3272.82,
+    "Hospitalizations": 48
+  },
+  "terrell": {
+    "Reported Cases": 347,
+    "Reported Deaths": 32,
+    "Case Rate": 4098.26,
+    "Hospitalizations": 74
+  },
+  "thomas": {
+    "Reported Cases": 1686,
+    "Reported Deaths": 74,
+    "Case Rate": 3794.65,
+    "Hospitalizations": 179
+  },
+  "tift": {
+    "Reported Cases": 2101,
+    "Reported Deaths": 67,
+    "Case Rate": 5145.73,
+    "Hospitalizations": 254
+  },
+  "toombs": {
+    "Reported Cases": 1582,
+    "Reported Deaths": 59,
+    "Case Rate": 5862.95,
+    "Hospitalizations": 122
+  },
+  "towns": {
+    "Reported Cases": 516,
+    "Reported Deaths": 16,
+    "Case Rate": 4287.85,
+    "Hospitalizations": 67
+  },
+  "treutlen": {
+    "Reported Cases": 325,
+    "Reported Deaths": 13,
+    "Case Rate": 4759.12,
+    "Hospitalizations": 33
+  },
+  "troup": {
+    "Reported Cases": 3190,
+    "Reported Deaths": 115,
+    "Case Rate": 4530.35,
+    "Hospitalizations": 353
+  },
+  "turner": {
+    "Reported Cases": 356,
+    "Reported Deaths": 25,
+    "Case Rate": 4408.12,
+    "Hospitalizations": 54
+  },
+  "twiggs": {
+    "Reported Cases": 236,
+    "Reported Deaths": 14,
+    "Case Rate": 2918.62,
+    "Hospitalizations": 57
+  },
+  "union": {
+    "Reported Cases": 1001,
+    "Reported Deaths": 31,
+    "Case Rate": 3951.06,
+    "Hospitalizations": 105
+  },
+  "upson": {
+    "Reported Cases": 889,
+    "Reported Deaths": 71,
+    "Case Rate": 3383.19,
+    "Hospitalizations": 100
+  },
+  "walker": {
+    "Reported Cases": 2265,
+    "Reported Deaths": 49,
+    "Case Rate": 3253.84,
+    "Hospitalizations": 105
+  },
+  "walton": {
+    "Reported Cases": 2593,
+    "Reported Deaths": 75,
+    "Case Rate": 2706.29,
+    "Hospitalizations": 245
+  },
+  "ware": {
+    "Reported Cases": 1849,
+    "Reported Deaths": 70,
+    "Case Rate": 5157.17,
+    "Hospitalizations": 209
+  },
+  "warren": {
+    "Reported Cases": 178,
+    "Reported Deaths": 6,
+    "Case Rate": 3416.51,
+    "Hospitalizations": 28
+  },
+  "washington": {
+    "Reported Cases": 923,
+    "Reported Deaths": 16,
+    "Case Rate": 4546.35,
+    "Hospitalizations": 52
+  },
+  "wayne": {
+    "Reported Cases": 1339,
+    "Reported Deaths": 41,
+    "Case Rate": 4467.2,
+    "Hospitalizations": 127
+  },
+  "webster": {
+    "Reported Cases": 45,
+    "Reported Deaths": 2,
+    "Case Rate": 1764.71,
+    "Hospitalizations": 10
+  },
+  "wheeler": {
+    "Reported Cases": 370,
+    "Reported Deaths": 17,
+    "Case Rate": 4678.21,
+    "Hospitalizations": 23
+  },
+  "white": {
+    "Reported Cases": 1125,
+    "Reported Deaths": 26,
+    "Case Rate": 3542.41,
+    "Hospitalizations": 122
+  },
+  "whitfield": {
+    "Reported Cases": 6783,
+    "Reported Deaths": 75,
+    "Case Rate": 6480.24,
+    "Hospitalizations": 327
+  },
+  "wilcox": {
+    "Reported Cases": 269,
+    "Reported Deaths": 26,
+    "Case Rate": 3060.3,
+    "Hospitalizations": 53
+  },
+  "wilkes": {
+    "Reported Cases": 348,
+    "Reported Deaths": 7,
+    "Case Rate": 3475.13,
+    "Hospitalizations": 43
+  },
+  "wilkinson": {
+    "Reported Cases": 402,
+    "Reported Deaths": 18,
+    "Case Rate": 4507.23,
+    "Hospitalizations": 69
+  },
+  "worth": {
+    "Reported Cases": 622,
+    "Reported Deaths": 35,
+    "Case Rate": 3088.07,
+    "Hospitalizations": 105
+  }
+}

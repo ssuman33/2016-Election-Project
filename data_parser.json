@@ -1,0 +1,797 @@
+{
+  "appling": {
+    "Total % below poverty level": 20.9,
+    "% below poverty level Under 18": 25.2,
+    "% less than highschool graduate": 2.8
+  },
+  "atkinson": {
+    "Total % below poverty level": 28.7,
+    "% below poverty level Under 18": 38.3,
+    "% less than highschool graduate": 3.1
+  },
+  "bacon": {
+    "Total % below poverty level": 17.9,
+    "% below poverty level Under 18": 22.2,
+    "% less than highschool graduate": 3.4
+  },
+  "baker": {
+    "Total % below poverty level": 22.9,
+    "% below poverty level Under 18": 38.1,
+    "% less than highschool graduate": 4.8
+  },
+  "baldwin": {
+    "Total % below poverty level": 31.4,
+    "% below poverty level Under 18": 42.4,
+    "% less than highschool graduate": 1.8
+  },
+  "banks": {
+    "Total % below poverty level": 16.6,
+    "% below poverty level Under 18": 23.1,
+    "% less than highschool graduate": 2.3
+  },
+  "barrow": {
+    "Total % below poverty level": 15.2,
+    "% below poverty level Under 18": 20.4,
+    "% less than highschool graduate": 1.4
+  },
+  "bartow": {
+    "Total % below poverty level": 15.8,
+    "% below poverty level Under 18": 21.5,
+    "% less than highschool graduate": 1.4
+  },
+  "ben hill": {
+    "Total % below poverty level": 35.3,
+    "% below poverty level Under 18": 49.5,
+    "% less than highschool graduate": 3.2
+  },
+  "berrien": {
+    "Total % below poverty level": 26.2,
+    "% below poverty level Under 18": 32.6,
+    "% less than highschool graduate": 2.0
+  },
+  "bibb": {
+    "Total % below poverty level": 27.4,
+    "% below poverty level Under 18": 42.6,
+    "% less than highschool graduate": 0.9
+  },
+  "bleckley": {
+    "Total % below poverty level": 23.5,
+    "% below poverty level Under 18": 33.5,
+    "% less than highschool graduate": 2.3
+  },
+  "brantley": {
+    "Total % below poverty level": 21.0,
+    "% below poverty level Under 18": 24.7,
+    "% less than highschool graduate": 3.3
+  },
+  "brooks": {
+    "Total % below poverty level": 27.6,
+    "% below poverty level Under 18": 42.4,
+    "% less than highschool graduate": 2.6
+  },
+  "bryan": {
+    "Total % below poverty level": 13.6,
+    "% below poverty level Under 18": 19.4,
+    "% less than highschool graduate": 1.4
+  },
+  "bulloch": {
+    "Total % below poverty level": 32.9,
+    "% below poverty level Under 18": 32.4,
+    "% less than highschool graduate": 1.4
+  },
+  "burke": {
+    "Total % below poverty level": 31.4,
+    "% below poverty level Under 18": 46.4,
+    "% less than highschool graduate": 2.2
+  },
+  "butts": {
+    "Total % below poverty level": 20.8,
+    "% below poverty level Under 18": 32.6,
+    "% less than highschool graduate": 3.0
+  },
+  "calhoun": {
+    "Total % below poverty level": 41.6,
+    "% below poverty level Under 18": 51.7,
+    "% less than highschool graduate": 4.4
+  },
+  "camden": {
+    "Total % below poverty level": 12.8,
+    "% below poverty level Under 18": 17.9,
+    "% less than highschool graduate": 1.3
+  },
+  "candler": {
+    "Total % below poverty level": 31.8,
+    "% below poverty level Under 18": 46.7,
+    "% less than highschool graduate": 2.9
+  },
+  "carroll": {
+    "Total % below poverty level": 20.7,
+    "% below poverty level Under 18": 27.7,
+    "% less than highschool graduate": 1.2
+  },
+  "catoosa": {
+    "Total % below poverty level": 12.5,
+    "% below poverty level Under 18": 17.0,
+    "% less than highschool graduate": 1.5
+  },
+  "charlton": {
+    "Total % below poverty level": 17.2,
+    "% below poverty level Under 18": 20.7,
+    "% less than highschool graduate": 3.8
+  },
+  "chatham": {
+    "Total % below poverty level": 19.1,
+    "% below poverty level Under 18": 29.7,
+    "% less than highschool graduate": 0.6
+  },
+  "chattahoochee": {
+    "Total % below poverty level": 11.5,
+    "% below poverty level Under 18": 10.3,
+    "% less than highschool graduate": 2.6
+  },
+  "chattooga": {
+    "Total % below poverty level": 23.7,
+    "% below poverty level Under 18": 31.3,
+    "% less than highschool graduate": 2.8
+  },
+  "cherokee": {
+    "Total % below poverty level": 10.8,
+    "% below poverty level Under 18": 14.4,
+    "% less than highschool graduate": 0.8
+  },
+  "clarke": {
+    "Total % below poverty level": 36.6,
+    "% below poverty level Under 18": 39.4,
+    "% less than highschool graduate": 0.9
+  },
+  "clay": {
+    "Total % below poverty level": 42.2,
+    "% below poverty level Under 18": 60.0,
+    "% less than highschool graduate": 5.2
+  },
+  "clayton": {
+    "Total % below poverty level": 25.1,
+    "% below poverty level Under 18": 37.8,
+    "% less than highschool graduate": 0.7
+  },
+  "clinch": {
+    "Total % below poverty level": 35.0,
+    "% below poverty level Under 18": 44.6,
+    "% less than highschool graduate": 3.9
+  },
+  "cobb": {
+    "Total % below poverty level": 12.4,
+    "% below poverty level Under 18": 17.4,
+    "% less than highschool graduate": 0.4
+  },
+  "coffee": {
+    "Total % below poverty level": 25.5,
+    "% below poverty level Under 18": 35.6,
+    "% less than highschool graduate": 2.8
+  },
+  "colquitt": {
+    "Total % below poverty level": 26.8,
+    "% below poverty level Under 18": 39.2,
+    "% less than highschool graduate": 2.0
+  },
+  "columbia": {
+    "Total % below poverty level": 9.2,
+    "% below poverty level Under 18": 11.5,
+    "% less than highschool graduate": 0.9
+  },
+  "cook": {
+    "Total % below poverty level": 25.1,
+    "% below poverty level Under 18": 30.4,
+    "% less than highschool graduate": 2.4
+  },
+  "coweta": {
+    "Total % below poverty level": 13.2,
+    "% below poverty level Under 18": 19.3,
+    "% less than highschool graduate": 1.0
+  },
+  "crawford": {
+    "Total % below poverty level": 17.2,
+    "% below poverty level Under 18": 22.6,
+    "% less than highschool graduate": 3.3
+  },
+  "crisp": {
+    "Total % below poverty level": 32.8,
+    "% below poverty level Under 18": 46.9,
+    "% less than highschool graduate": 2.7
+  },
+  "dade": {
+    "Total % below poverty level": 15.2,
+    "% below poverty level Under 18": 21.1,
+    "% less than highschool graduate": 2.8
+  },
+  "dawson": {
+    "Total % below poverty level": 14.2,
+    "% below poverty level Under 18": 16.2,
+    "% less than highschool graduate": 2.6
+  },
+  "decatur": {
+    "Total % below poverty level": 28.4,
+    "% below poverty level Under 18": 39.8,
+    "% less than highschool graduate": 1.9
+  },
+  "dekalb": {
+    "Total % below poverty level": 19.3,
+    "% below poverty level Under 18": 30.1,
+    "% less than highschool graduate": 0.3
+  },
+  "dodge": {
+    "Total % below poverty level": 22.5,
+    "% below poverty level Under 18": 33.2,
+    "% less than highschool graduate": 2.5
+  },
+  "dooly": {
+    "Total % below poverty level": 29.2,
+    "% below poverty level Under 18": 39.7,
+    "% less than highschool graduate": 2.9
+  },
+  "dougherty": {
+    "Total % below poverty level": 30.7,
+    "% below poverty level Under 18": 44.4,
+    "% less than highschool graduate": 1.1
+  },
+  "douglas": {
+    "Total % below poverty level": 16.4,
+    "% below poverty level Under 18": 22.0,
+    "% less than highschool graduate": 1.1
+  },
+  "early": {
+    "Total % below poverty level": 28.0,
+    "% below poverty level Under 18": 37.7,
+    "% less than highschool graduate": 2.8
+  },
+  "echols": {
+    "Total % below poverty level": 29.0,
+    "% below poverty level Under 18": 40.2,
+    "% less than highschool graduate": 5.5
+  },
+  "effingham": {
+    "Total % below poverty level": 10.6,
+    "% below poverty level Under 18": 14.4,
+    "% less than highschool graduate": 2.0
+  },
+  "elbert": {
+    "Total % below poverty level": 19.0,
+    "% below poverty level Under 18": 27.5,
+    "% less than highschool graduate": 2.2
+  },
+  "emanuel": {
+    "Total % below poverty level": 30.6,
+    "% below poverty level Under 18": 43.9,
+    "% less than highschool graduate": 2.6
+  },
+  "evans": {
+    "Total % below poverty level": 27.7,
+    "% below poverty level Under 18": 42.3,
+    "% less than highschool graduate": 3.5
+  },
+  "fannin": {
+    "Total % below poverty level": 23.1,
+    "% below poverty level Under 18": 35.3,
+    "% less than highschool graduate": 2.2
+  },
+  "fayette": {
+    "Total % below poverty level": 8.5,
+    "% below poverty level Under 18": 12.1,
+    "% less than highschool graduate": 0.7
+  },
+  "floyd": {
+    "Total % below poverty level": 21.3,
+    "% below poverty level Under 18": 29.4,
+    "% less than highschool graduate": 1.2
+  },
+  "forsyth": {
+    "Total % below poverty level": 6.9,
+    "% below poverty level Under 18": 7.4,
+    "% less than highschool graduate": 0.6
+  },
+  "franklin": {
+    "Total % below poverty level": 23.9,
+    "% below poverty level Under 18": 30.4,
+    "% less than highschool graduate": 2.9
+  },
+  "fulton": {
+    "Total % below poverty level": 17.6,
+    "% below poverty level Under 18": 25.2,
+    "% less than highschool graduate": 0.3
+  },
+  "gilmer": {
+    "Total % below poverty level": 23.5,
+    "% below poverty level Under 18": 45.5,
+    "% less than highschool graduate": 2.5
+  },
+  "glascock": {
+    "Total % below poverty level": 16.2,
+    "% below poverty level Under 18": 29.6,
+    "% less than highschool graduate": 4.2
+  },
+  "glynn": {
+    "Total % below poverty level": 18.7,
+    "% below poverty level Under 18": 28.2,
+    "% less than highschool graduate": 1.2
+  },
+  "gordon": {
+    "Total % below poverty level": 20.4,
+    "% below poverty level Under 18": 30.0,
+    "% less than highschool graduate": 1.8
+  },
+  "grady": {
+    "Total % below poverty level": 30.7,
+    "% below poverty level Under 18": 48.8,
+    "% less than highschool graduate": 2.8
+  },
+  "greene": {
+    "Total % below poverty level": 24.9,
+    "% below poverty level Under 18": 44.7,
+    "% less than highschool graduate": 2.1
+  },
+  "gwinnett": {
+    "Total % below poverty level": 13.8,
+    "% below poverty level Under 18": 19.8,
+    "% less than highschool graduate": 0.5
+  },
+  "habersham": {
+    "Total % below poverty level": 17.8,
+    "% below poverty level Under 18": 26.2,
+    "% less than highschool graduate": 1.8
+  },
+  "hall": {
+    "Total % below poverty level": 18.4,
+    "% below poverty level Under 18": 27.6,
+    "% less than highschool graduate": 0.9
+  },
+  "hancock": {
+    "Total % below poverty level": 30.3,
+    "% below poverty level Under 18": 48.5,
+    "% less than highschool graduate": 4.2
+  },
+  "haralson": {
+    "Total % below poverty level": 20.3,
+    "% below poverty level Under 18": 27.7,
+    "% less than highschool graduate": 2.2
+  },
+  "harris": {
+    "Total % below poverty level": 9.3,
+    "% below poverty level Under 18": 12.0,
+    "% less than highschool graduate": 1.6
+  },
+  "hart": {
+    "Total % below poverty level": 21.9,
+    "% below poverty level Under 18": 28.4,
+    "% less than highschool graduate": 2.5
+  },
+  "heard": {
+    "Total % below poverty level": 20.5,
+    "% below poverty level Under 18": 29.0,
+    "% less than highschool graduate": 3.1
+  },
+  "henry": {
+    "Total % below poverty level": 12.9,
+    "% below poverty level Under 18": 19.7,
+    "% less than highschool graduate": 0.8
+  },
+  "houston": {
+    "Total % below poverty level": 17.2,
+    "% below poverty level Under 18": 25.8,
+    "% less than highschool graduate": 0.9
+  },
+  "irwin": {
+    "Total % below poverty level": 26.0,
+    "% below poverty level Under 18": 35.7,
+    "% less than highschool graduate": 3.0
+  },
+  "jackson": {
+    "Total % below poverty level": 13.7,
+    "% below poverty level Under 18": 15.6,
+    "% less than highschool graduate": 1.4
+  },
+  "jasper": {
+    "Total % below poverty level": 20.7,
+    "% below poverty level Under 18": 29.5,
+    "% less than highschool graduate": 3.1
+  },
+  "jeff davis": {
+    "Total % below poverty level": 22.3,
+    "% below poverty level Under 18": 33.1,
+    "% less than highschool graduate": 3.4
+  },
+  "jefferson": {
+    "Total % below poverty level": 30.8,
+    "% below poverty level Under 18": 49.9,
+    "% less than highschool graduate": 2.9
+  },
+  "jenkins": {
+    "Total % below poverty level": 33.8,
+    "% below poverty level Under 18": 57.6,
+    "% less than highschool graduate": 6.1
+  },
+  "johnson": {
+    "Total % below poverty level": 23.1,
+    "% below poverty level Under 18": 32.9,
+    "% less than highschool graduate": 3.1
+  },
+  "jones": {
+    "Total % below poverty level": 16.8,
+    "% below poverty level Under 18": 23.6,
+    "% less than highschool graduate": 2.2
+  },
+  "lamar": {
+    "Total % below poverty level": 22.1,
+    "% below poverty level Under 18": 29.2,
+    "% less than highschool graduate": 2.6
+  },
+  "lanier": {
+    "Total % below poverty level": 26.6,
+    "% below poverty level Under 18": 32.9,
+    "% less than highschool graduate": 4.6
+  },
+  "laurens": {
+    "Total % below poverty level": 27.5,
+    "% below poverty level Under 18": 38.9,
+    "% less than highschool graduate": 1.6
+  },
+  "lee": {
+    "Total % below poverty level": 12.3,
+    "% below poverty level Under 18": 16.8,
+    "% less than highschool graduate": 2.2
+  },
+  "liberty": {
+    "Total % below poverty level": 17.7,
+    "% below poverty level Under 18": 22.9,
+    "% less than highschool graduate": 1.1
+  },
+  "lincoln": {
+    "Total % below poverty level": 25.0,
+    "% below poverty level Under 18": 40.2,
+    "% less than highschool graduate": 3.5
+  },
+  "long": {
+    "Total % below poverty level": 17.9,
+    "% below poverty level Under 18": 23.0,
+    "% less than highschool graduate": 2.9
+  },
+  "lowndes": {
+    "Total % below poverty level": 26.5,
+    "% below poverty level Under 18": 33.3,
+    "% less than highschool graduate": 1.2
+  },
+  "lumpkin": {
+    "Total % below poverty level": 18.8,
+    "% below poverty level Under 18": 21.1,
+    "% less than highschool graduate": 2.8
+  },
+  "mcduffie": {
+    "Total % below poverty level": 25.4,
+    "% below poverty level Under 18": 41.2,
+    "% less than highschool graduate": 2.9
+  },
+  "mcintosh": {
+    "Total % below poverty level": 21.3,
+    "% below poverty level Under 18": 35.9,
+    "% less than highschool graduate": 4.4
+  },
+  "macon": {
+    "Total % below poverty level": 29.6,
+    "% below poverty level Under 18": 33.6,
+    "% less than highschool graduate": 3.4
+  },
+  "madison": {
+    "Total % below poverty level": 17.1,
+    "% below poverty level Under 18": 23.0,
+    "% less than highschool graduate": 2.4
+  },
+  "marion": {
+    "Total % below poverty level": 21.3,
+    "% below poverty level Under 18": 29.1,
+    "% less than highschool graduate": 4.2
+  },
+  "meriwether": {
+    "Total % below poverty level": 22.7,
+    "% below poverty level Under 18": 31.3,
+    "% less than highschool graduate": 2.8
+  },
+  "miller": {
+    "Total % below poverty level": 27.9,
+    "% below poverty level Under 18": 40.6,
+    "% less than highschool graduate": 3.9
+  },
+  "mitchell": {
+    "Total % below poverty level": 28.7,
+    "% below poverty level Under 18": 40.5,
+    "% less than highschool graduate": 3.4
+  },
+  "monroe": {
+    "Total % below poverty level": 13.6,
+    "% below poverty level Under 18": 12.9,
+    "% less than highschool graduate": 2.3
+  },
+  "montgomery": {
+    "Total % below poverty level": 25.3,
+    "% below poverty level Under 18": 35.9,
+    "% less than highschool graduate": 2.8
+  },
+  "morgan": {
+    "Total % below poverty level": 14.3,
+    "% below poverty level Under 18": 19.0,
+    "% less than highschool graduate": 2.5
+  },
+  "murray": {
+    "Total % below poverty level": 20.0,
+    "% below poverty level Under 18": 24.1,
+    "% less than highschool graduate": 2.1
+  },
+  "muscogee": {
+    "Total % below poverty level": 20.5,
+    "% below poverty level Under 18": 29.4,
+    "% less than highschool graduate": 0.7
+  },
+  "newton": {
+    "Total % below poverty level": 17.1,
+    "% below poverty level Under 18": 23.9,
+    "% less than highschool graduate": 1.6
+  },
+  "oconee": {
+    "Total % below poverty level": 7.3,
+    "% below poverty level Under 18": 9.1,
+    "% less than highschool graduate": 1.1
+  },
+  "oglethorpe": {
+    "Total % below poverty level": 15.9,
+    "% below poverty level Under 18": 23.6,
+    "% less than highschool graduate": 3.2
+  },
+  "paulding": {
+    "Total % below poverty level": 12.6,
+    "% below poverty level Under 18": 17.2,
+    "% less than highschool graduate": 1.1
+  },
+  "peach": {
+    "Total % below poverty level": 21.9,
+    "% below poverty level Under 18": 32.1,
+    "% less than highschool graduate": 1.6
+  },
+  "pickens": {
+    "Total % below poverty level": 11.6,
+    "% below poverty level Under 18": 18.8,
+    "% less than highschool graduate": 1.9
+  },
+  "pierce": {
+    "Total % below poverty level": 23.7,
+    "% below poverty level Under 18": 31.8,
+    "% less than highschool graduate": 2.7
+  },
+  "pike": {
+    "Total % below poverty level": 12.2,
+    "% below poverty level Under 18": 15.9,
+    "% less than highschool graduate": 2.1
+  },
+  "polk": {
+    "Total % below poverty level": 21.5,
+    "% below poverty level Under 18": 31.6,
+    "% less than highschool graduate": 2.4
+  },
+  "pulaski": {
+    "Total % below poverty level": 19.2,
+    "% below poverty level Under 18": 34.6,
+    "% less than highschool graduate": 3.6
+  },
+  "putnam": {
+    "Total % below poverty level": 16.4,
+    "% below poverty level Under 18": 22.7,
+    "% less than highschool graduate": 2.7
+  },
+  "quitman": {
+    "Total % below poverty level": 24.0,
+    "% below poverty level Under 18": 44.3,
+    "% less than highschool graduate": 7.4
+  },
+  "rabun": {
+    "Total % below poverty level": 21.6,
+    "% below poverty level Under 18": 32.4,
+    "% less than highschool graduate": 2.3
+  },
+  "randolph": {
+    "Total % below poverty level": 30.2,
+    "% below poverty level Under 18": 52.2,
+    "% less than highschool graduate": 6.0
+  },
+  "richmond": {
+    "Total % below poverty level": 25.2,
+    "% below poverty level Under 18": 39.9,
+    "% less than highschool graduate": 0.8
+  },
+  "rockdale": {
+    "Total % below poverty level": 16.5,
+    "% below poverty level Under 18": 24.2,
+    "% less than highschool graduate": 1.1
+  },
+  "schley": {
+    "Total % below poverty level": 23.4,
+    "% below poverty level Under 18": 33.3,
+    "% less than highschool graduate": 4.6
+  },
+  "screven": {
+    "Total % below poverty level": 25.2,
+    "% below poverty level Under 18": 35.9,
+    "% less than highschool graduate": 2.3
+  },
+  "seminole": {
+    "Total % below poverty level": 18.4,
+    "% below poverty level Under 18": 29.0,
+    "% less than highschool graduate": 2.6
+  },
+  "spalding": {
+    "Total % below poverty level": 22.7,
+    "% below poverty level Under 18": 33.0,
+    "% less than highschool graduate": 1.9
+  },
+  "stephens": {
+    "Total % below poverty level": 18.9,
+    "% below poverty level Under 18": 25.3,
+    "% less than highschool graduate": 2.7
+  },
+  "stewart": {
+    "Total % below poverty level": 38.4,
+    "% below poverty level Under 18": 61.6,
+    "% less than highschool graduate": 5.0
+  },
+  "sumter": {
+    "Total % below poverty level": 33.2,
+    "% below poverty level Under 18": 52.7,
+    "% less than highschool graduate": 2.4
+  },
+  "talbot": {
+    "Total % below poverty level": 20.0,
+    "% below poverty level Under 18": 20.7,
+    "% less than highschool graduate": 2.9
+  },
+  "taliaferro": {
+    "Total % below poverty level": 30.0,
+    "% below poverty level Under 18": 52.6,
+    "% less than highschool graduate": 6.1
+  },
+  "tattnall": {
+    "Total % below poverty level": 29.2,
+    "% below poverty level Under 18": 41.7,
+    "% less than highschool graduate": 2.4
+  },
+  "taylor": {
+    "Total % below poverty level": 28.7,
+    "% below poverty level Under 18": 42.3,
+    "% less than highschool graduate": 4.0
+  },
+  "telfair": {
+    "Total % below poverty level": 28.5,
+    "% below poverty level Under 18": 48.5,
+    "% less than highschool graduate": 3.1
+  },
+  "terrell": {
+    "Total % below poverty level": 36.2,
+    "% below poverty level Under 18": 59.5,
+    "% less than highschool graduate": 3.2
+  },
+  "thomas": {
+    "Total % below poverty level": 23.6,
+    "% below poverty level Under 18": 28.5,
+    "% less than highschool graduate": 1.7
+  },
+  "tift": {
+    "Total % below poverty level": 29.2,
+    "% below poverty level Under 18": 42.2,
+    "% less than highschool graduate": 2.0
+  },
+  "toombs": {
+    "Total % below poverty level": 24.8,
+    "% below poverty level Under 18": 33.4,
+    "% less than highschool graduate": 1.9
+  },
+  "towns": {
+    "Total % below poverty level": 18.6,
+    "% below poverty level Under 18": 30.1,
+    "% less than highschool graduate": 1.7
+  },
+  "treutlen": {
+    "Total % below poverty level": 19.6,
+    "% below poverty level Under 18": 31.5,
+    "% less than highschool graduate": 3.6
+  },
+  "troup": {
+    "Total % below poverty level": 21.4,
+    "% below poverty level Under 18": 31.1,
+    "% less than highschool graduate": 1.1
+  },
+  "turner": {
+    "Total % below poverty level": 25.4,
+    "% below poverty level Under 18": 43.0,
+    "% less than highschool graduate": 4.6
+  },
+  "twiggs": {
+    "Total % below poverty level": 27.7,
+    "% below poverty level Under 18": 30.4,
+    "% less than highschool graduate": 4.0
+  },
+  "union": {
+    "Total % below poverty level": 13.5,
+    "% below poverty level Under 18": 19.4,
+    "% less than highschool graduate": 2.4
+  },
+  "upson": {
+    "Total % below poverty level": 23.7,
+    "% below poverty level Under 18": 36.5,
+    "% less than highschool graduate": 2.7
+  },
+  "walker": {
+    "Total % below poverty level": 17.8,
+    "% below poverty level Under 18": 22.6,
+    "% less than highschool graduate": 1.6
+  },
+  "walton": {
+    "Total % below poverty level": 13.9,
+    "% below poverty level Under 18": 21.1,
+    "% less than highschool graduate": 1.4
+  },
+  "ware": {
+    "Total % below poverty level": 29.2,
+    "% below poverty level Under 18": 45.4,
+    "% less than highschool graduate": 2.0
+  },
+  "warren": {
+    "Total % below poverty level": 27.1,
+    "% below poverty level Under 18": 42.2,
+    "% less than highschool graduate": 4.3
+  },
+  "washington": {
+    "Total % below poverty level": 25.9,
+    "% below poverty level Under 18": 36.7,
+    "% less than highschool graduate": 1.9
+  },
+  "wayne": {
+    "Total % below poverty level": 20.3,
+    "% below poverty level Under 18": 23.5,
+    "% less than highschool graduate": 2.1
+  },
+  "webster": {
+    "Total % below poverty level": 22.5,
+    "% below poverty level Under 18": 33.1,
+    "% less than highschool graduate": 5.5
+  },
+  "wheeler": {
+    "Total % below poverty level": 27.2,
+    "% below poverty level Under 18": 37.0,
+    "% less than highschool graduate": 4.1
+  },
+  "white": {
+    "Total % below poverty level": 19.0,
+    "% below poverty level Under 18": 34.4,
+    "% less than highschool graduate": 2.3
+  },
+  "whitfield": {
+    "Total % below poverty level": 18.8,
+    "% below poverty level Under 18": 27.2,
+    "% less than highschool graduate": 1.5
+  },
+  "wilcox": {
+    "Total % below poverty level": 23.1,
+    "% below poverty level Under 18": 28.4,
+    "% less than highschool graduate": 2.4
+  },
+  "wilkes": {
+    "Total % below poverty level": 28.5,
+    "% below poverty level Under 18": 49.7,
+    "% less than highschool graduate": 3.1
+  },
+  "wilkinson": {
+    "Total % below poverty level": 17.7,
+    "% below poverty level Under 18": 26.2,
+    "% less than highschool graduate": 2.7
+  },
+  "worth": {
+    "Total % below poverty level": 21.2,
+    "% below poverty level Under 18": 30.2,
+    "% less than highschool graduate": 3.1
+  }
+}

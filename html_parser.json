@@ -1,0 +1,1433 @@
+{
+  "appling": {
+    "Clinton %": 20.47,
+    "Clinton Votes": 1434,
+    "Trump %": 78.43,
+    "Trump Votes": 5494,
+    "Others %": 1.1,
+    "Other Votes": 77,
+    "Total Votes": 7005
+  },
+  "atkinson": {
+    "Clinton %": 26.7,
+    "Clinton Votes": 697,
+    "Trump %": 71.95,
+    "Trump Votes": 1878,
+    "Others %": 1.34,
+    "Other Votes": 35,
+    "Total Votes": 2610
+  },
+  "bacon": {
+    "Clinton %": 15.13,
+    "Clinton Votes": 608,
+    "Trump %": 83.7,
+    "Trump Votes": 3364,
+    "Others %": 1.17,
+    "Other Votes": 47,
+    "Total Votes": 4019
+  },
+  "baker": {
+    "Clinton %": 45.14,
+    "Clinton Votes": 650,
+    "Trump %": 53.82,
+    "Trump Votes": 775,
+    "Others %": 1.04,
+    "Other Votes": 15,
+    "Total Votes": 1440
+  },
+  "baldwin": {
+    "Clinton %": 49.55,
+    "Clinton Votes": 7970,
+    "Trump %": 47.85,
+    "Trump Votes": 7697,
+    "Others %": 2.6,
+    "Other Votes": 419,
+    "Total Votes": 16086
+  },
+  "banks": {
+    "Clinton %": 9.84,
+    "Clinton Votes": 684,
+    "Trump %": 88.26,
+    "Trump Votes": 6134,
+    "Others %": 1.9,
+    "Other Votes": 132,
+    "Total Votes": 6950
+  },
+  "barrow": {
+    "Clinton %": 22.82,
+    "Clinton Votes": 6580,
+    "Trump %": 73.21,
+    "Trump Votes": 21108,
+    "Others %": 3.96,
+    "Other Votes": 1143,
+    "Total Votes": 28831
+  },
+  "bartow": {
+    "Clinton %": 20.89,
+    "Clinton Votes": 8212,
+    "Trump %": 76.1,
+    "Trump Votes": 29911,
+    "Others %": 3.01,
+    "Other Votes": 1183,
+    "Total Votes": 39306
+  },
+  "ben hill": {
+    "Clinton %": 35.42,
+    "Clinton Votes": 2101,
+    "Trump %": 63.04,
+    "Trump Votes": 3739,
+    "Others %": 1.53,
+    "Other Votes": 91,
+    "Total Votes": 5931
+  },
+  "berrien": {
+    "Clinton %": 15.9,
+    "Clinton Votes": 1047,
+    "Trump %": 82.35,
+    "Trump Votes": 5422,
+    "Others %": 1.75,
+    "Other Votes": 115,
+    "Total Votes": 6584
+  },
+  "bibb": {
+    "Clinton %": 59.07,
+    "Clinton Votes": 36787,
+    "Trump %": 38.61,
+    "Trump Votes": 24043,
+    "Others %": 2.32,
+    "Other Votes": 1447,
+    "Total Votes": 62277
+  },
+  "bleckley": {
+    "Clinton %": 22.27,
+    "Clinton Votes": 1101,
+    "Trump %": 75.24,
+    "Trump Votes": 3719,
+    "Others %": 2.49,
+    "Other Votes": 123,
+    "Total Votes": 4943
+  },
+  "brantley": {
+    "Clinton %": 9.84,
+    "Clinton Votes": 619,
+    "Trump %": 88.48,
+    "Trump Votes": 5567,
+    "Others %": 1.68,
+    "Other Votes": 106,
+    "Total Votes": 6292
+  },
+  "brooks": {
+    "Clinton %": 40.01,
+    "Clinton Votes": 2528,
+    "Trump %": 58.58,
+    "Trump Votes": 3701,
+    "Others %": 1.41,
+    "Other Votes": 89,
+    "Total Votes": 6318
+  },
+  "bryan": {
+    "Clinton %": 26.61,
+    "Clinton Votes": 4014,
+    "Trump %": 69.8,
+    "Trump Votes": 10529,
+    "Others %": 3.59,
+    "Other Votes": 542,
+    "Total Votes": 15085
+  },
+  "bulloch": {
+    "Clinton %": 36.68,
+    "Clinton Votes": 9261,
+    "Trump %": 59.79,
+    "Trump Votes": 15097,
+    "Others %": 3.53,
+    "Other Votes": 890,
+    "Total Votes": 25248
+  },
+  "burke": {
+    "Clinton %": 50.59,
+    "Clinton Votes": 4731,
+    "Trump %": 48.03,
+    "Trump Votes": 4491,
+    "Others %": 1.38,
+    "Other Votes": 129,
+    "Total Votes": 9351
+  },
+  "butts": {
+    "Clinton %": 27.08,
+    "Clinton Votes": 2566,
+    "Trump %": 70.88,
+    "Trump Votes": 6717,
+    "Others %": 2.05,
+    "Other Votes": 194,
+    "Total Votes": 9477
+  },
+  "calhoun": {
+    "Clinton %": 58.22,
+    "Clinton Votes": 1179,
+    "Trump %": 40.99,
+    "Trump Votes": 830,
+    "Others %": 0.79,
+    "Other Votes": 16,
+    "Total Votes": 2025
+  },
+  "camden": {
+    "Clinton %": 31.43,
+    "Clinton Votes": 5930,
+    "Trump %": 65.24,
+    "Trump Votes": 12310,
+    "Others %": 3.33,
+    "Other Votes": 629,
+    "Total Votes": 18869
+  },
+  "candler": {
+    "Clinton %": 27.27,
+    "Clinton Votes": 1026,
+    "Trump %": 70.79,
+    "Trump Votes": 2664,
+    "Others %": 1.94,
+    "Other Votes": 73,
+    "Total Votes": 3763
+  },
+  "carroll": {
+    "Clinton %": 28.43,
+    "Clinton Votes": 12464,
+    "Trump %": 68.5,
+    "Trump Votes": 30029,
+    "Others %": 3.07,
+    "Other Votes": 1346,
+    "Total Votes": 43839
+  },
+  "catoosa": {
+    "Clinton %": 17.98,
+    "Clinton Votes": 4771,
+    "Trump %": 78.69,
+    "Trump Votes": 20876,
+    "Others %": 3.32,
+    "Other Votes": 881,
+    "Total Votes": 26528
+  },
+  "charlton": {
+    "Clinton %": 25.04,
+    "Clinton Votes": 1004,
+    "Trump %": 73.61,
+    "Trump Votes": 2951,
+    "Others %": 1.35,
+    "Other Votes": 54,
+    "Total Votes": 4009
+  },
+  "chatham": {
+    "Clinton %": 55.87,
+    "Clinton Votes": 62290,
+    "Trump %": 40.98,
+    "Trump Votes": 45688,
+    "Others %": 3.14,
+    "Other Votes": 3503,
+    "Total Votes": 111481
+  },
+  "chattahoochee": {
+    "Clinton %": 42.73,
+    "Clinton Votes": 594,
+    "Trump %": 54.03,
+    "Trump Votes": 751,
+    "Others %": 3.24,
+    "Other Votes": 45,
+    "Total Votes": 1390
+  },
+  "chattooga": {
+    "Clinton %": 19.55,
+    "Clinton Votes": 1613,
+    "Trump %": 78.31,
+    "Trump Votes": 6462,
+    "Others %": 2.14,
+    "Other Votes": 177,
+    "Total Votes": 8252
+  },
+  "cherokee": {
+    "Clinton %": 22.75,
+    "Clinton Votes": 25231,
+    "Trump %": 72.73,
+    "Trump Votes": 80649,
+    "Others %": 4.52,
+    "Other Votes": 5015,
+    "Total Votes": 110895
+  },
+  "clarke": {
+    "Clinton %": 66.77,
+    "Clinton Votes": 29603,
+    "Trump %": 28.68,
+    "Trump Votes": 12717,
+    "Others %": 4.55,
+    "Other Votes": 2019,
+    "Total Votes": 44339
+  },
+  "clay": {
+    "Clinton %": 54.84,
+    "Clinton Votes": 697,
+    "Trump %": 44.53,
+    "Trump Votes": 566,
+    "Others %": 0.63,
+    "Other Votes": 8,
+    "Total Votes": 1271
+  },
+  "clayton": {
+    "Clinton %": 84.55,
+    "Clinton Votes": 78220,
+    "Trump %": 13.67,
+    "Trump Votes": 12645,
+    "Others %": 1.78,
+    "Other Votes": 1647,
+    "Total Votes": 92512
+  },
+  "clinch": {
+    "Clinton %": 28.03,
+    "Clinton Votes": 686,
+    "Trump %": 70.58,
+    "Trump Votes": 1727,
+    "Others %": 1.39,
+    "Other Votes": 34,
+    "Total Votes": 2447
+  },
+  "cobb": {
+    "Clinton %": 48.89,
+    "Clinton Votes": 160121,
+    "Trump %": 46.69,
+    "Trump Votes": 152912,
+    "Others %": 4.42,
+    "Other Votes": 14466,
+    "Total Votes": 327499
+  },
+  "coffee": {
+    "Clinton %": 29.42,
+    "Clinton Votes": 4094,
+    "Trump %": 68.9,
+    "Trump Votes": 9588,
+    "Others %": 1.67,
+    "Other Votes": 233,
+    "Total Votes": 13915
+  },
+  "colquitt": {
+    "Clinton %": 25.46,
+    "Clinton Votes": 3463,
+    "Trump %": 72.77,
+    "Trump Votes": 9898,
+    "Others %": 1.76,
+    "Other Votes": 240,
+    "Total Votes": 13601
+  },
+  "columbia": {
+    "Clinton %": 29.4,
+    "Clinton Votes": 18887,
+    "Trump %": 67.07,
+    "Trump Votes": 43085,
+    "Others %": 3.53,
+    "Other Votes": 2270,
+    "Total Votes": 64242
+  },
+  "cook": {
+    "Clinton %": 29.02,
+    "Clinton Votes": 1753,
+    "Trump %": 69.13,
+    "Trump Votes": 4176,
+    "Others %": 1.85,
+    "Other Votes": 112,
+    "Total Votes": 6041
+  },
+  "coweta": {
+    "Clinton %": 27.03,
+    "Clinton Votes": 16583,
+    "Trump %": 69.33,
+    "Trump Votes": 42533,
+    "Others %": 3.64,
+    "Other Votes": 2235,
+    "Total Votes": 61351
+  },
+  "crawford": {
+    "Clinton %": 27.53,
+    "Clinton Votes": 1421,
+    "Trump %": 70.42,
+    "Trump Votes": 3635,
+    "Others %": 2.05,
+    "Other Votes": 106,
+    "Total Votes": 5162
+  },
+  "crisp": {
+    "Clinton %": 37.77,
+    "Clinton Votes": 2837,
+    "Trump %": 60.56,
+    "Trump Votes": 4549,
+    "Others %": 1.68,
+    "Other Votes": 126,
+    "Total Votes": 7512
+  },
+  "dade": {
+    "Clinton %": 15.46,
+    "Clinton Votes": 965,
+    "Trump %": 80.92,
+    "Trump Votes": 5051,
+    "Others %": 3.62,
+    "Other Votes": 226,
+    "Total Votes": 6242
+  },
+  "dawson": {
+    "Clinton %": 12.37,
+    "Clinton Votes": 1448,
+    "Trump %": 84.59,
+    "Trump Votes": 9900,
+    "Others %": 3.04,
+    "Other Votes": 356,
+    "Total Votes": 11704
+  },
+  "decatur": {
+    "Clinton %": 40.16,
+    "Clinton Votes": 4124,
+    "Trump %": 58.62,
+    "Trump Votes": 6020,
+    "Others %": 1.23,
+    "Other Votes": 126,
+    "Total Votes": 10270
+  },
+  "dekalb": {
+    "Clinton %": 80.44,
+    "Clinton Votes": 251370,
+    "Trump %": 16.47,
+    "Trump Votes": 51468,
+    "Others %": 3.09,
+    "Other Votes": 9666,
+    "Total Votes": 312504
+  },
+  "dodge": {
+    "Clinton %": 26.28,
+    "Clinton Votes": 1839,
+    "Trump %": 71.75,
+    "Trump Votes": 5021,
+    "Others %": 1.97,
+    "Other Votes": 138,
+    "Total Votes": 6998
+  },
+  "dooly": {
+    "Clinton %": 48.51,
+    "Clinton Votes": 1872,
+    "Trump %": 50.56,
+    "Trump Votes": 1951,
+    "Others %": 0.93,
+    "Other Votes": 36,
+    "Total Votes": 3859
+  },
+  "dougherty": {
+    "Clinton %": 68.53,
+    "Clinton Votes": 23311,
+    "Trump %": 30.08,
+    "Trump Votes": 10232,
+    "Others %": 1.4,
+    "Other Votes": 475,
+    "Total Votes": 34018
+  },
+  "douglas": {
+    "Clinton %": 54.0,
+    "Clinton Votes": 31005,
+    "Trump %": 43.22,
+    "Trump Votes": 24817,
+    "Others %": 2.78,
+    "Other Votes": 1594,
+    "Total Votes": 57416
+  },
+  "early": {
+    "Clinton %": 45.31,
+    "Clinton Votes": 2168,
+    "Trump %": 53.33,
+    "Trump Votes": 2552,
+    "Others %": 1.36,
+    "Other Votes": 65,
+    "Total Votes": 4785
+  },
+  "echols": {
+    "Clinton %": 13.27,
+    "Clinton Votes": 156,
+    "Trump %": 85.63,
+    "Trump Votes": 1007,
+    "Others %": 1.11,
+    "Other Votes": 13,
+    "Total Votes": 1176
+  },
+  "effingham": {
+    "Clinton %": 20.73,
+    "Clinton Votes": 4853,
+    "Trump %": 76.37,
+    "Trump Votes": 17874,
+    "Others %": 2.9,
+    "Other Votes": 679,
+    "Total Votes": 23406
+  },
+  "elbert": {
+    "Clinton %": 31.86,
+    "Clinton Votes": 2539,
+    "Trump %": 66.4,
+    "Trump Votes": 5292,
+    "Others %": 1.74,
+    "Other Votes": 139,
+    "Total Votes": 7970
+  },
+  "emanuel": {
+    "Clinton %": 31.04,
+    "Clinton Votes": 2435,
+    "Trump %": 68.01,
+    "Trump Votes": 5335,
+    "Others %": 0.96,
+    "Other Votes": 75,
+    "Total Votes": 7845
+  },
+  "evans": {
+    "Clinton %": 31.37,
+    "Clinton Votes": 1130,
+    "Trump %": 66.74,
+    "Trump Votes": 2404,
+    "Others %": 1.89,
+    "Other Votes": 68,
+    "Total Votes": 3602
+  },
+  "fannin": {
+    "Clinton %": 16.33,
+    "Clinton Votes": 1923,
+    "Trump %": 81.79,
+    "Trump Votes": 9632,
+    "Others %": 1.89,
+    "Other Votes": 222,
+    "Total Votes": 11777
+  },
+  "fayette": {
+    "Clinton %": 38.53,
+    "Clinton Votes": 23284,
+    "Trump %": 57.99,
+    "Trump Votes": 35048,
+    "Others %": 3.48,
+    "Other Votes": 2103,
+    "Total Votes": 60435
+  },
+  "floyd": {
+    "Clinton %": 26.66,
+    "Clinton Votes": 9159,
+    "Trump %": 70.19,
+    "Trump Votes": 24114,
+    "Others %": 3.16,
+    "Other Votes": 1084,
+    "Total Votes": 34357
+  },
+  "forsyth": {
+    "Clinton %": 24.09,
+    "Clinton Votes": 23462,
+    "Trump %": 71.71,
+    "Trump Votes": 69851,
+    "Others %": 4.2,
+    "Other Votes": 4091,
+    "Total Votes": 97404
+  },
+  "franklin": {
+    "Clinton %": 14.67,
+    "Clinton Votes": 1243,
+    "Trump %": 83.24,
+    "Trump Votes": 7054,
+    "Others %": 2.09,
+    "Other Votes": 177,
+    "Total Votes": 8474
+  },
+  "fulton": {
+    "Clinton %": 68.99,
+    "Clinton Votes": 297051,
+    "Trump %": 27.35,
+    "Trump Votes": 117783,
+    "Others %": 3.66,
+    "Other Votes": 15765,
+    "Total Votes": 430599
+  },
+  "gilmer": {
+    "Clinton %": 15.43,
+    "Clinton Votes": 1965,
+    "Trump %": 82.27,
+    "Trump Votes": 10477,
+    "Others %": 2.3,
+    "Other Votes": 293,
+    "Total Votes": 12735
+  },
+  "glascock": {
+    "Clinton %": 9.93,
+    "Clinton Votes": 138,
+    "Trump %": 88.85,
+    "Trump Votes": 1235,
+    "Others %": 1.22,
+    "Other Votes": 17,
+    "Total Votes": 1390
+  },
+  "glynn": {
+    "Clinton %": 34.52,
+    "Clinton Votes": 11775,
+    "Trump %": 63.06,
+    "Trump Votes": 21512,
+    "Others %": 2.42,
+    "Other Votes": 825,
+    "Total Votes": 34112
+  },
+  "gordon": {
+    "Clinton %": 16.85,
+    "Clinton Votes": 3181,
+    "Trump %": 80.47,
+    "Trump Votes": 15191,
+    "Others %": 2.69,
+    "Other Votes": 507,
+    "Total Votes": 18879
+  },
+  "grady": {
+    "Clinton %": 32.75,
+    "Clinton Votes": 3013,
+    "Trump %": 65.79,
+    "Trump Votes": 6053,
+    "Others %": 1.47,
+    "Other Votes": 135,
+    "Total Votes": 9201
+  },
+  "greene": {
+    "Clinton %": 36.19,
+    "Clinton Votes": 3199,
+    "Trump %": 62.1,
+    "Trump Votes": 5490,
+    "Others %": 1.71,
+    "Other Votes": 151,
+    "Total Votes": 8840
+  },
+  "gwinnett": {
+    "Clinton %": 51.02,
+    "Clinton Votes": 166153,
+    "Trump %": 45.14,
+    "Trump Votes": 146989,
+    "Others %": 3.84,
+    "Other Votes": 12494,
+    "Total Votes": 325636
+  },
+  "habersham": {
+    "Clinton %": 15.39,
+    "Clinton Votes": 2483,
+    "Trump %": 81.75,
+    "Trump Votes": 13190,
+    "Others %": 2.86,
+    "Other Votes": 461,
+    "Total Votes": 16134
+  },
+  "hall": {
+    "Clinton %": 23.04,
+    "Clinton Votes": 16180,
+    "Trump %": 73.67,
+    "Trump Votes": 51733,
+    "Others %": 3.29,
+    "Other Votes": 2307,
+    "Total Votes": 70220
+  },
+  "hancock": {
+    "Clinton %": 75.45,
+    "Clinton Votes": 2701,
+    "Trump %": 23.55,
+    "Trump Votes": 843,
+    "Others %": 1.01,
+    "Other Votes": 36,
+    "Total Votes": 3580
+  },
+  "haralson": {
+    "Clinton %": 13.03,
+    "Clinton Votes": 1475,
+    "Trump %": 84.64,
+    "Trump Votes": 9585,
+    "Others %": 2.33,
+    "Other Votes": 264,
+    "Total Votes": 11324
+  },
+  "harris": {
+    "Clinton %": 24.91,
+    "Clinton Votes": 4086,
+    "Trump %": 72.78,
+    "Trump Votes": 11936,
+    "Others %": 2.31,
+    "Other Votes": 379,
+    "Total Votes": 16401
+  },
+  "hart": {
+    "Clinton %": 25.64,
+    "Clinton Votes": 2585,
+    "Trump %": 72.28,
+    "Trump Votes": 7286,
+    "Others %": 2.07,
+    "Other Votes": 209,
+    "Total Votes": 10080
+  },
+  "heard": {
+    "Clinton %": 17.67,
+    "Clinton Votes": 743,
+    "Trump %": 80.12,
+    "Trump Votes": 3370,
+    "Others %": 2.21,
+    "Other Votes": 93,
+    "Total Votes": 4206
+  },
+  "henry": {
+    "Clinton %": 50.93,
+    "Clinton Votes": 50057,
+    "Trump %": 46.52,
+    "Trump Votes": 45724,
+    "Others %": 2.55,
+    "Other Votes": 2505,
+    "Total Votes": 98286
+  },
+  "houston": {
+    "Clinton %": 37.75,
+    "Clinton Votes": 22553,
+    "Trump %": 59.3,
+    "Trump Votes": 35430,
+    "Others %": 2.95,
+    "Other Votes": 1761,
+    "Total Votes": 59744
+  },
+  "irwin": {
+    "Clinton %": 24.31,
+    "Clinton Votes": 891,
+    "Trump %": 74.11,
+    "Trump Votes": 2716,
+    "Others %": 1.58,
+    "Other Votes": 58,
+    "Total Votes": 3665
+  },
+  "jackson": {
+    "Clinton %": 16.57,
+    "Clinton Votes": 4491,
+    "Trump %": 80.36,
+    "Trump Votes": 21784,
+    "Others %": 3.08,
+    "Other Votes": 834,
+    "Total Votes": 27109
+  },
+  "jasper": {
+    "Clinton %": 25.64,
+    "Clinton Votes": 1544,
+    "Trump %": 72.39,
+    "Trump Votes": 4360,
+    "Others %": 1.98,
+    "Other Votes": 119,
+    "Total Votes": 6023
+  },
+  "jeff davis": {
+    "Clinton %": 17.7,
+    "Clinton Votes": 901,
+    "Trump %": 80.61,
+    "Trump Votes": 4104,
+    "Others %": 1.69,
+    "Other Votes": 86,
+    "Total Votes": 5091
+  },
+  "jefferson": {
+    "Clinton %": 54.95,
+    "Clinton Votes": 3821,
+    "Trump %": 44.05,
+    "Trump Votes": 3063,
+    "Others %": 1.01,
+    "Other Votes": 70,
+    "Total Votes": 6954
+  },
+  "jenkins": {
+    "Clinton %": 36.8,
+    "Clinton Votes": 1123,
+    "Trump %": 62.09,
+    "Trump Votes": 1895,
+    "Others %": 1.11,
+    "Other Votes": 34,
+    "Total Votes": 3052
+  },
+  "johnson": {
+    "Clinton %": 30.85,
+    "Clinton Votes": 1136,
+    "Trump %": 68.41,
+    "Trump Votes": 2519,
+    "Others %": 0.73,
+    "Other Votes": 27,
+    "Total Votes": 3682
+  },
+  "jones": {
+    "Clinton %": 31.62,
+    "Clinton Votes": 3961,
+    "Trump %": 66.3,
+    "Trump Votes": 8305,
+    "Others %": 2.08,
+    "Other Votes": 260,
+    "Total Votes": 12526
+  },
+  "lamar": {
+    "Clinton %": 29.92,
+    "Clinton Votes": 2270,
+    "Trump %": 68.42,
+    "Trump Votes": 5190,
+    "Others %": 1.66,
+    "Other Votes": 126,
+    "Total Votes": 7586
+  },
+  "lanier": {
+    "Clinton %": 28.15,
+    "Clinton Votes": 806,
+    "Trump %": 69.3,
+    "Trump Votes": 1984,
+    "Others %": 2.55,
+    "Other Votes": 73,
+    "Total Votes": 2863
+  },
+  "laurens": {
+    "Clinton %": 34.67,
+    "Clinton Votes": 6752,
+    "Trump %": 63.72,
+    "Trump Votes": 12411,
+    "Others %": 1.61,
+    "Other Votes": 313,
+    "Total Votes": 19476
+  },
+  "lee": {
+    "Clinton %": 22.46,
+    "Clinton Votes": 3170,
+    "Trump %": 75.42,
+    "Trump Votes": 10646,
+    "Others %": 2.12,
+    "Other Votes": 299,
+    "Total Votes": 14115
+  },
+  "liberty": {
+    "Clinton %": 59.29,
+    "Clinton Votes": 9556,
+    "Trump %": 38.06,
+    "Trump Votes": 6134,
+    "Others %": 2.65,
+    "Other Votes": 427,
+    "Total Votes": 16117
+  },
+  "lincoln": {
+    "Clinton %": 31.03,
+    "Clinton Votes": 1273,
+    "Trump %": 67.26,
+    "Trump Votes": 2759,
+    "Others %": 1.71,
+    "Other Votes": 70,
+    "Total Votes": 4102
+  },
+  "long": {
+    "Clinton %": 33.03,
+    "Clinton Votes": 1360,
+    "Trump %": 63.78,
+    "Trump Votes": 2626,
+    "Others %": 3.18,
+    "Other Votes": 131,
+    "Total Votes": 4117
+  },
+  "lowndes": {
+    "Clinton %": 40.03,
+    "Clinton Votes": 15064,
+    "Trump %": 57.5,
+    "Trump Votes": 21635,
+    "Others %": 2.47,
+    "Other Votes": 929,
+    "Total Votes": 37628
+  },
+  "lumpkin": {
+    "Clinton %": 18.0,
+    "Clinton Votes": 2220,
+    "Trump %": 77.99,
+    "Trump Votes": 9619,
+    "Others %": 4.01,
+    "Other Votes": 495,
+    "Total Votes": 12334
+  },
+  "macon": {
+    "Clinton %": 63.1,
+    "Clinton Votes": 2705,
+    "Trump %": 35.92,
+    "Trump Votes": 1540,
+    "Others %": 0.98,
+    "Other Votes": 42,
+    "Total Votes": 4287
+  },
+  "madison": {
+    "Clinton %": 20.29,
+    "Clinton Votes": 2425,
+    "Trump %": 76.97,
+    "Trump Votes": 9201,
+    "Others %": 2.74,
+    "Other Votes": 328,
+    "Total Votes": 11954
+  },
+  "marion": {
+    "Clinton %": 38.11,
+    "Clinton Votes": 1213,
+    "Trump %": 60.35,
+    "Trump Votes": 1921,
+    "Others %": 1.54,
+    "Other Votes": 49,
+    "Total Votes": 3183
+  },
+  "mcduffie": {
+    "Clinton %": 39.91,
+    "Clinton Votes": 3699,
+    "Trump %": 58.61,
+    "Trump Votes": 5432,
+    "Others %": 1.48,
+    "Other Votes": 137,
+    "Total Votes": 9268
+  },
+  "mcintosh": {
+    "Clinton %": 39.01,
+    "Clinton Votes": 2303,
+    "Trump %": 59.07,
+    "Trump Votes": 3487,
+    "Others %": 1.91,
+    "Other Votes": 113,
+    "Total Votes": 5903
+  },
+  "meriwether": {
+    "Clinton %": 41.39,
+    "Clinton Votes": 3804,
+    "Trump %": 56.82,
+    "Trump Votes": 5222,
+    "Others %": 1.8,
+    "Other Votes": 165,
+    "Total Votes": 9191
+  },
+  "miller": {
+    "Clinton %": 24.49,
+    "Clinton Votes": 623,
+    "Trump %": 74.33,
+    "Trump Votes": 1891,
+    "Others %": 1.18,
+    "Other Votes": 30,
+    "Total Votes": 2544
+  },
+  "mitchell": {
+    "Clinton %": 44.41,
+    "Clinton Votes": 3493,
+    "Trump %": 54.41,
+    "Trump Votes": 4279,
+    "Others %": 1.18,
+    "Other Votes": 93,
+    "Total Votes": 7865
+  },
+  "monroe": {
+    "Clinton %": 28.15,
+    "Clinton Votes": 3571,
+    "Trump %": 69.61,
+    "Trump Votes": 8832,
+    "Others %": 2.24,
+    "Other Votes": 284,
+    "Total Votes": 12687
+  },
+  "montgomery": {
+    "Clinton %": 23.78,
+    "Clinton Votes": 847,
+    "Trump %": 74.96,
+    "Trump Votes": 2670,
+    "Others %": 1.26,
+    "Other Votes": 45,
+    "Total Votes": 3562
+  },
+  "morgan": {
+    "Clinton %": 28.21,
+    "Clinton Votes": 2663,
+    "Trump %": 69.48,
+    "Trump Votes": 6559,
+    "Others %": 2.31,
+    "Other Votes": 218,
+    "Total Votes": 9440
+  },
+  "murray": {
+    "Clinton %": 14.49,
+    "Clinton Votes": 1800,
+    "Trump %": 83.23,
+    "Trump Votes": 10341,
+    "Others %": 2.28,
+    "Other Votes": 283,
+    "Total Votes": 12424
+  },
+  "muscogee": {
+    "Clinton %": 58.04,
+    "Clinton Votes": 39851,
+    "Trump %": 39.29,
+    "Trump Votes": 26976,
+    "Others %": 2.67,
+    "Other Votes": 1831,
+    "Total Votes": 68658
+  },
+  "newton": {
+    "Clinton %": 50.09,
+    "Clinton Votes": 21943,
+    "Trump %": 47.74,
+    "Trump Votes": 20913,
+    "Others %": 2.16,
+    "Other Votes": 947,
+    "Total Votes": 43803
+  },
+  "oconee": {
+    "Clinton %": 28.0,
+    "Clinton Votes": 5581,
+    "Trump %": 67.36,
+    "Trump Votes": 13425,
+    "Others %": 4.64,
+    "Other Votes": 925,
+    "Total Votes": 19931
+  },
+  "oglethorpe": {
+    "Clinton %": 27.51,
+    "Clinton Votes": 1831,
+    "Trump %": 69.5,
+    "Trump Votes": 4625,
+    "Others %": 2.99,
+    "Other Votes": 199,
+    "Total Votes": 6655
+  },
+  "paulding": {
+    "Clinton %": 27.88,
+    "Clinton Votes": 18025,
+    "Trump %": 69.09,
+    "Trump Votes": 44662,
+    "Others %": 3.02,
+    "Other Votes": 1954,
+    "Total Votes": 64641
+  },
+  "peach": {
+    "Clinton %": 47.56,
+    "Clinton Votes": 5100,
+    "Trump %": 50.48,
+    "Trump Votes": 5413,
+    "Others %": 1.97,
+    "Other Votes": 211,
+    "Total Votes": 10724
+  },
+  "pickens": {
+    "Clinton %": 14.15,
+    "Clinton Votes": 1979,
+    "Trump %": 83.32,
+    "Trump Votes": 11651,
+    "Others %": 2.53,
+    "Other Votes": 354,
+    "Total Votes": 13984
+  },
+  "pierce": {
+    "Clinton %": 12.37,
+    "Clinton Votes": 903,
+    "Trump %": 86.35,
+    "Trump Votes": 6302,
+    "Others %": 1.27,
+    "Other Votes": 93,
+    "Total Votes": 7298
+  },
+  "pike": {
+    "Clinton %": 14.28,
+    "Clinton Votes": 1240,
+    "Trump %": 83.84,
+    "Trump Votes": 7278,
+    "Others %": 1.88,
+    "Other Votes": 163,
+    "Total Votes": 8681
+  },
+  "polk": {
+    "Clinton %": 20.23,
+    "Clinton Votes": 2867,
+    "Trump %": 77.73,
+    "Trump Votes": 11014,
+    "Others %": 2.04,
+    "Other Votes": 289,
+    "Total Votes": 14170
+  },
+  "pulaski": {
+    "Clinton %": 30.68,
+    "Clinton Votes": 1104,
+    "Trump %": 67.71,
+    "Trump Votes": 2437,
+    "Others %": 1.61,
+    "Other Votes": 58,
+    "Total Votes": 3599
+  },
+  "putnam": {
+    "Clinton %": 29.12,
+    "Clinton Votes": 2758,
+    "Trump %": 69.09,
+    "Trump Votes": 6544,
+    "Others %": 1.79,
+    "Other Votes": 170,
+    "Total Votes": 9472
+  },
+  "quitman": {
+    "Clinton %": 44.16,
+    "Clinton Votes": 461,
+    "Trump %": 55.08,
+    "Trump Votes": 575,
+    "Others %": 0.77,
+    "Other Votes": 8,
+    "Total Votes": 1044
+  },
+  "rabun": {
+    "Clinton %": 18.16,
+    "Clinton Votes": 1444,
+    "Trump %": 79.08,
+    "Trump Votes": 6287,
+    "Others %": 2.75,
+    "Other Votes": 219,
+    "Total Votes": 7950
+  },
+  "randolph": {
+    "Clinton %": 55.16,
+    "Clinton Votes": 1598,
+    "Trump %": 43.87,
+    "Trump Votes": 1271,
+    "Others %": 0.97,
+    "Other Votes": 28,
+    "Total Votes": 2897
+  },
+  "richmond": {
+    "Clinton %": 65.01,
+    "Clinton Votes": 48814,
+    "Trump %": 32.58,
+    "Trump Votes": 24461,
+    "Others %": 2.41,
+    "Other Votes": 1811,
+    "Total Votes": 75086
+  },
+  "rockdale": {
+    "Clinton %": 61.76,
+    "Clinton Votes": 23255,
+    "Trump %": 35.79,
+    "Trump Votes": 13478,
+    "Others %": 2.45,
+    "Other Votes": 923,
+    "Total Votes": 37656
+  },
+  "schley": {
+    "Clinton %": 21.01,
+    "Clinton Votes": 401,
+    "Trump %": 77.11,
+    "Trump Votes": 1472,
+    "Others %": 1.89,
+    "Other Votes": 36,
+    "Total Votes": 1909
+  },
+  "screven": {
+    "Clinton %": 40.36,
+    "Clinton Votes": 2300,
+    "Trump %": 57.99,
+    "Trump Votes": 3305,
+    "Others %": 1.65,
+    "Other Votes": 94,
+    "Total Votes": 5699
+  },
+  "seminole": {
+    "Clinton %": 33.19,
+    "Clinton Votes": 1189,
+    "Trump %": 65.47,
+    "Trump Votes": 2345,
+    "Others %": 1.34,
+    "Other Votes": 48,
+    "Total Votes": 3582
+  },
+  "spalding": {
+    "Clinton %": 36.55,
+    "Clinton Votes": 9357,
+    "Trump %": 61.12,
+    "Trump Votes": 15646,
+    "Others %": 2.33,
+    "Other Votes": 597,
+    "Total Votes": 25600
+  },
+  "stephens": {
+    "Clinton %": 18.81,
+    "Clinton Votes": 1837,
+    "Trump %": 78.7,
+    "Trump Votes": 7686,
+    "Others %": 2.49,
+    "Other Votes": 243,
+    "Total Votes": 9766
+  },
+  "stewart": {
+    "Clinton %": 59.46,
+    "Clinton Votes": 1222,
+    "Trump %": 39.17,
+    "Trump Votes": 805,
+    "Others %": 1.36,
+    "Other Votes": 28,
+    "Total Votes": 2055
+  },
+  "sumter": {
+    "Clinton %": 50.3,
+    "Clinton Votes": 5520,
+    "Trump %": 48.08,
+    "Trump Votes": 5276,
+    "Others %": 1.62,
+    "Other Votes": 178,
+    "Total Votes": 10974
+  },
+  "talbot": {
+    "Clinton %": 61.71,
+    "Clinton Votes": 2002,
+    "Trump %": 36.87,
+    "Trump Votes": 1196,
+    "Others %": 1.42,
+    "Other Votes": 46,
+    "Total Votes": 3244
+  },
+  "taliaferro": {
+    "Clinton %": 60.76,
+    "Clinton Votes": 545,
+    "Trump %": 38.91,
+    "Trump Votes": 349,
+    "Others %": 0.33,
+    "Other Votes": 3,
+    "Total Votes": 897
+  },
+  "tattnall": {
+    "Clinton %": 24.41,
+    "Clinton Votes": 1681,
+    "Trump %": 74.01,
+    "Trump Votes": 5096,
+    "Others %": 1.58,
+    "Other Votes": 109,
+    "Total Votes": 6886
+  },
+  "taylor": {
+    "Clinton %": 38.06,
+    "Clinton Votes": 1296,
+    "Trump %": 60.62,
+    "Trump Votes": 2064,
+    "Others %": 1.32,
+    "Other Votes": 45,
+    "Total Votes": 3405
+  },
+  "telfair": {
+    "Clinton %": 34.6,
+    "Clinton Votes": 1313,
+    "Trump %": 64.56,
+    "Trump Votes": 2450,
+    "Others %": 0.84,
+    "Other Votes": 32,
+    "Total Votes": 3795
+  },
+  "terrell": {
+    "Clinton %": 54.22,
+    "Clinton Votes": 2267,
+    "Trump %": 44.82,
+    "Trump Votes": 1874,
+    "Others %": 0.96,
+    "Other Votes": 40,
+    "Total Votes": 4181
+  },
+  "thomas": {
+    "Clinton %": 38.12,
+    "Clinton Votes": 7142,
+    "Trump %": 59.92,
+    "Trump Votes": 11228,
+    "Others %": 1.96,
+    "Other Votes": 368,
+    "Total Votes": 18738
+  },
+  "tift": {
+    "Clinton %": 30.67,
+    "Clinton Votes": 4347,
+    "Trump %": 67.61,
+    "Trump Votes": 9584,
+    "Others %": 1.72,
+    "Other Votes": 244,
+    "Total Votes": 14175
+  },
+  "toombs": {
+    "Clinton %": 25.66,
+    "Clinton Votes": 2338,
+    "Trump %": 72.6,
+    "Trump Votes": 6615,
+    "Others %": 1.73,
+    "Other Votes": 158,
+    "Total Votes": 9111
+  },
+  "towns": {
+    "Clinton %": 17.96,
+    "Clinton Votes": 1210,
+    "Trump %": 79.88,
+    "Trump Votes": 5383,
+    "Others %": 2.17,
+    "Other Votes": 146,
+    "Total Votes": 6739
+  },
+  "treutlen": {
+    "Clinton %": 31.89,
+    "Clinton Votes": 862,
+    "Trump %": 66.93,
+    "Trump Votes": 1809,
+    "Others %": 1.18,
+    "Other Votes": 32,
+    "Total Votes": 2703
+  },
+  "troup": {
+    "Clinton %": 37.32,
+    "Clinton Votes": 9713,
+    "Trump %": 60.52,
+    "Trump Votes": 15750,
+    "Others %": 2.16,
+    "Other Votes": 561,
+    "Total Votes": 26024
+  },
+  "turner": {
+    "Clinton %": 36.71,
+    "Clinton Votes": 1246,
+    "Trump %": 61.73,
+    "Trump Votes": 2095,
+    "Others %": 1.56,
+    "Other Votes": 53,
+    "Total Votes": 3394
+  },
+  "twiggs": {
+    "Clinton %": 48.59,
+    "Clinton Votes": 1971,
+    "Trump %": 50.17,
+    "Trump Votes": 2035,
+    "Others %": 1.23,
+    "Other Votes": 50,
+    "Total Votes": 4056
+  },
+  "union": {
+    "Clinton %": 16.3,
+    "Clinton Votes": 1963,
+    "Trump %": 81.8,
+    "Trump Votes": 9852,
+    "Others %": 1.9,
+    "Other Votes": 229,
+    "Total Votes": 12044
+  },
+  "upson": {
+    "Clinton %": 31.78,
+    "Clinton Votes": 3475,
+    "Trump %": 66.69,
+    "Trump Votes": 7292,
+    "Others %": 1.53,
+    "Other Votes": 167,
+    "Total Votes": 10934
+  },
+  "walker": {
+    "Clinton %": 17.59,
+    "Clinton Votes": 4215,
+    "Trump %": 79.1,
+    "Trump Votes": 18950,
+    "Others %": 3.3,
+    "Other Votes": 791,
+    "Total Votes": 23956
+  },
+  "walton": {
+    "Clinton %": 20.49,
+    "Clinton Votes": 8292,
+    "Trump %": 76.91,
+    "Trump Votes": 31125,
+    "Others %": 2.61,
+    "Other Votes": 1055,
+    "Total Votes": 40472
+  },
+  "ware": {
+    "Clinton %": 28.29,
+    "Clinton Votes": 3440,
+    "Trump %": 70.01,
+    "Trump Votes": 8513,
+    "Others %": 1.69,
+    "Other Votes": 206,
+    "Total Votes": 12159
+  },
+  "warren": {
+    "Clinton %": 56.32,
+    "Clinton Votes": 1314,
+    "Trump %": 42.48,
+    "Trump Votes": 991,
+    "Others %": 1.2,
+    "Other Votes": 28,
+    "Total Votes": 2333
+  },
+  "washington": {
+    "Clinton %": 49.72,
+    "Clinton Votes": 4200,
+    "Trump %": 49.12,
+    "Trump Votes": 4149,
+    "Others %": 1.16,
+    "Other Votes": 98,
+    "Total Votes": 8447
+  },
+  "wayne": {
+    "Clinton %": 19.65,
+    "Clinton Votes": 2041,
+    "Trump %": 78.5,
+    "Trump Votes": 8153,
+    "Others %": 1.85,
+    "Other Votes": 192,
+    "Total Votes": 10386
+  },
+  "webster": {
+    "Clinton %": 42.38,
+    "Clinton Votes": 473,
+    "Trump %": 56.45,
+    "Trump Votes": 630,
+    "Others %": 1.16,
+    "Other Votes": 13,
+    "Total Votes": 1116
+  },
+  "wheeler": {
+    "Clinton %": 30.73,
+    "Clinton Votes": 646,
+    "Trump %": 67.6,
+    "Trump Votes": 1421,
+    "Others %": 1.67,
+    "Other Votes": 35,
+    "Total Votes": 2102
+  },
+  "white": {
+    "Clinton %": 14.21,
+    "Clinton Votes": 1674,
+    "Trump %": 82.84,
+    "Trump Votes": 9761,
+    "Others %": 2.95,
+    "Other Votes": 348,
+    "Total Votes": 11783
+  },
+  "whitfield": {
+    "Clinton %": 26.11,
+    "Clinton Votes": 7937,
+    "Trump %": 70.85,
+    "Trump Votes": 21537,
+    "Others %": 3.04,
+    "Other Votes": 924,
+    "Total Votes": 30398
+  },
+  "wilcox": {
+    "Clinton %": 28.66,
+    "Clinton Votes": 852,
+    "Trump %": 70.5,
+    "Trump Votes": 2096,
+    "Others %": 0.84,
+    "Other Votes": 25,
+    "Total Votes": 2973
+  },
+  "wilkes": {
+    "Clinton %": 41.28,
+    "Clinton Votes": 1848,
+    "Trump %": 57.45,
+    "Trump Votes": 2572,
+    "Others %": 1.27,
+    "Other Votes": 57,
+    "Total Votes": 4477
+  },
+  "wilkinson": {
+    "Clinton %": 44.27,
+    "Clinton Votes": 1894,
+    "Trump %": 54.53,
+    "Trump Votes": 2333,
+    "Others %": 1.19,
+    "Other Votes": 51,
+    "Total Votes": 4278
+  },
+  "worth": {
+    "Clinton %": 24.4,
+    "Clinton Votes": 2020,
+    "Trump %": 74.3,
+    "Trump Votes": 6152,
+    "Others %": 1.3,
+    "Other Votes": 108,
+    "Total Votes": 8280
+  }
+}
